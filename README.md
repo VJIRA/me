@@ -4,8 +4,16 @@
 
 * 🌍  I'm based in Opava, Moravia-Silesia Region, Czechia
 * ✉️  You can contact me at [jiravojta@gmail.com](mailto:jiravojta@gmail.com)
-* 🧠  I'm learning Next.js, Nuxt.js, Express.js, Playwright, Cypress and many other tools
-* ⚡  I'm renaissance man in IT with many ideas or the well of knowledge
+* 🧠  My experience: React/Next.js, Vue/Nuxt.js, Express.js, Playwright/Cypress/Selenium, Appium and many other tools
+* 🤪  Languages: JavaScript/Typescript, PHP (old version, Wordpress, Laravel), Java
+* 🧪  As SDET: Playwright with a lot of integration tools such as - Playwright-BDD, Axe-Playwright, Chromatic, Storybook, Artillery and much more.
+* CI/CD Bitbucket, GitHub, GitLab, Azure
+* Many testing tools in using, every project, bringing new things: Postman replaced by Bruno API or Hoppscotch, Grafana.
+* ⏩  Other: Apply AI to work-life and day routine, working to be more flexible
+* IDE: Start with IntelliJ, end with Trae.ai
+* ⚡  I'm a Renaissance man in IT with many ideas and a well of knowledge
+
+If anything want to ask to me: please write on my LinkedIn profile here https://www.linkedin.com/in/vojtech-jira/
 
 #### Skills
 
